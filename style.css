@@ -33,7 +33,7 @@
    background: #bc4e9c;  /* fallback for old browsers */
    background: -webkit-linear-gradient(to right, #f80759, #bc4e9c); 
     /* Chrome 10-25, Safari 5.1-6 */
-   background: linear-gradient(to right, #f80759, #bc4e9c), url(img/portada.jpg);
+   background: linear-gradient(to right, #f80759, #bc4e9c);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
