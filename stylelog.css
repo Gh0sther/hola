@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+body{
+    background-image:url(img/login-img.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+    margin:auto;
+    margin-top:100px;
+}
+
+.contenedor_todo{
+    width: 100%;
+    max-width: 800px;
+    margin:auto;
+    position:relative;
+}
+.caja_trasera{
+    width: 100;
+    padding:10px 20px;
+    display:flex;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 247, 255, 0.5);
+}
