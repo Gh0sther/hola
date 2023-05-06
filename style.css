@@ -14,8 +14,10 @@
 .contenedor{
 
     padding-top: 60px;
-    padding:auto;
-
+    width: 90%;
+    max-width: 1000%;
+    margin:auto;
+    overflow: hidden;
 }
 
 
