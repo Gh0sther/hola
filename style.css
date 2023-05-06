@@ -115,3 +115,7 @@ header .textos-header{
 .sobre-nosotros .contenido-textos{
     width: 48%;
 }
+
+.contenido-textos h3{
+    margin-bottom: 15px;
+}
