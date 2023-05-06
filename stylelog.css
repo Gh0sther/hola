@@ -98,5 +98,24 @@ main{
     border:none;
     background: #f2f2f2;
     font-size: 16px;
+    outline: none;
+}
+.contenedor__login-register form button{
+   padding: 10px 40px;
+   margin-top: 40px;
+   border:none;
+   font-size: 14px;
+   background: #46a2fd;
+   color: #fff;
+   cursor: pointer; 
+   outline: none;
+}
+
+.formulario__login{
+    opacity: 1;
+    display:block;
+}
+.formulario__register{
+    display:none;
 }
 
