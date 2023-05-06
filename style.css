@@ -76,6 +76,8 @@ nav >a:hover{
 
 }
 
+
+
 header .textos-header{
 
     display:flex;
@@ -97,4 +99,19 @@ header .textos-header{
     font-size: 30px;
     font-weight: 300;
     color:#fff;
+}
+
+.contenedor-sobre-nosotros{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.imagen-about-us{
+    width:48%;
+
+}
+
+.sobre-nosotros .contenido-textos{
+    width: 48%;
 }
