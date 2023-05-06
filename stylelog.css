@@ -35,3 +35,9 @@ main{
     backdrop-filter: blur(10px);
     background-color: rgba(0, 247, 255, 0.5);
 }
+.caja_trasera div{
+    margin: 100px 40px;
+    color:white;
+    transition: all 500ms;
+}
+.caja_trasera div 
