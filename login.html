@@ -10,30 +10,50 @@
 
 <body>
 
+    <main>
 
-<h1>Signup</h1>
+        <div class="contenedor__todo">
+            <div class="caja_trasera">
+                <h3>¿Ya tienes una cuenta?</h3>
+                <p>Inicia sesión </p>
+                 <button id="btn_iniciar-sesion">Iniciar Sesión</button>   
+            </div>
+            <div class="caja_trasera-register">
+                <h3>¿Ya tienes una cuenta?</h3>
+                <button id="btn_iniciar-sesion">Registrarse</button>   
+            </div>
+        <div class="contenedor_login-register">
 
-<form>
-        <div>
-        <label for="name">Name</label>
-        <input type="text" id="name" name="name">
+            <form action=""class="formulario_login">
+
+                <h2>Inciar Sesión</h2>
+                <input type="text" placeholder="Coreeo Electrónico">
+                <input type="password" placeholder="Contraseña">
+                <button>Entrar</button>
+
+            </form>
+
+            <form action="" class="formulario_register">
+                <h2>Registrarse</h2>
+                <input type="text" placeholder="Nombre completo">
+                <input type="text" placeholder=" Correo Electronico">
+                <input type="text" placeholder=" Usuario">
+                <input type="password" placeholder=" Contraseña">
+                <button>Registrarse</button>
+            </form>
+
         </div>
-        <div>
-        <label for="email">email</label>
-        <input type="email" id="email" name="email">
+
+
         </div>
-        
-        <div>
-            <label for="password">Password</label>
-            <input type="password" id="password" name="password">
-        </div>  
-        <div>
-            <label for="password_confirmation">Repeat password</label>
-            <input type="password" id="password_confirmation" name="password_confirmation">
-        </div>  
-    
-        <button>Sign up</button>
-</form>
+
+
+
+
+
+    </main>
+
+
 
 </body>
 
