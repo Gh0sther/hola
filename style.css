@@ -4,18 +4,18 @@
     padding:0;
     box-sizing: border-box;
 
-
-
-
-
-
 } 	
-
-    body{ background: linear-gradient(135deg, #8254EA 0%, #E86DEC 100%) ;
+ body{ background: linear-gradient(135deg, #8254EA 0%, #E86DEC 100%) ;
      color: white;
      font-family: revert-layer;
 
+  }
 
-
-
+.contenedor{
+    padding: 60px , 0px;
+    width: 90%;
+    max-width: 1000px;
+    margin : auto;
+    overflow: hidden;
+}
 
