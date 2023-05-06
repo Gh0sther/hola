@@ -137,7 +137,8 @@ header .textos-header{
     flex-wrap: wrap;
 }
 .imagen-port{
-    width: 34%;
+    width: 25%;
+    height: 200px;
     margin-bottom: 15px;
     overflow: hidden;
     position: relative;
