@@ -14,7 +14,7 @@
 .contenedor{
 
     padding-top: 60px;
-    padding-bottom: 60px;
+    
     padding-left: 0px;
     padding-right: 0px;
     width: 90%;
@@ -23,6 +23,15 @@
     overflow: hidden;
 }
 
+
+.titulo{
+
+    color:#642a73;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 60px;
+    
+}
 
 
 
