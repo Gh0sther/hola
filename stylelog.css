@@ -28,7 +28,7 @@ main{
     margin:auto;
     position:relative;
 }
-.caja_trasera{
+.caja__trasera{
     width: 100;
     padding-top:10px;
     padding-bottom: 10px;
@@ -39,7 +39,7 @@ main{
     backdrop-filter: blur(10px);
     background-color: rgba(0, 128, 255, 0.5);
 }
-.caja_trasera div{
+.caja__trasera div{
     margin: 100px 40px;
     color:white;
     transition: all 500ms;
