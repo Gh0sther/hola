@@ -1,1 +1,0 @@
-jQuery(document).ready(function(){if(cookie_legal!==undefined){window.dataLayer.push({'event':'ckgPageView','cookies_legal':localStorage.getItem('cookie_legal'),});pageViewSended=!0}else{pageViewSended=!1}})

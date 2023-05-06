@@ -1,2 +1,0 @@
-jQuery(document).ready(function($){if(document.querySelector('body').classList.contains('wp-admin')){setTimeout(removeChar,1000)}else{removeChar()}
-function removeChar(){const el=$('ul.simple-sitemap-page.horizontal li:last');$(el).html(function(index,html){return html.substr(0,html.length-2)})}})
