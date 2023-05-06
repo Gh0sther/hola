@@ -41,7 +41,7 @@ header{
      /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #f80759, #bc4e9c); 
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.493), hsla(317, 45%, 52%, 0.616)), url(img/portada.jpg); 
+    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.37), hsla(317, 45%, 52%, 0.616)), url(img/portada2.webp); 
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
