@@ -42,6 +42,27 @@ nav >a:hover{
     text-decoration: underline;
 
 }
+.contenedor{
+
+    padding-top: 60px;
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    overflow: hidden;
+}
+
+
+.nombre{
+
+    color:#642a73;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 60px;
+    
+}
 
 .floristeria{
     display:flex;
