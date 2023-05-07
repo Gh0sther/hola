@@ -48,6 +48,9 @@ nav >a:hover{
     justify-content:space-evenly;
 
 }
+    .floristeria .contenido-textos{
+        width: 48%;
+    }
     .foto-Margarita{
         width: 45%;
         }
