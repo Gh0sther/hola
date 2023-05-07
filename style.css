@@ -187,8 +187,13 @@ footer{
 }
 .inifoo{
     text-align: right;
+    padding: 30px 50px 0 0;
+}
+.inifoo>a{
+    color:#fff;
+    font-weight: 300;
     text-decoration: none;
-    color: #fff;
+    margin-right: 10px;
 }
 
 
