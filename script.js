@@ -1,7 +1,7 @@
 document.getElementById("btn__iniciar-sesion").addEventListener("click",iniciarSesion);
 document.getElementById("btn__registrarse").addEventListener("click",register);
 
-
+window.addEventListener("resize" .anchoPagina);
 
 
 var contenedor_login_register = document.querySelector(".contenedor__login-register");
@@ -23,7 +23,7 @@ function anchoPagina()
         formulario_register.style.display="none";
         contenedor_login_register.style.left="0px";
     }
-    
+anchoPagina();
 
 function iniciarSesion(){
 
