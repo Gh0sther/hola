@@ -23,7 +23,7 @@ function anchoPagina()
         formulario_register.style.display="none";
         contenedor_login_register.style.left="0px";
     }
-    anchoPagina();
+    
 
 function iniciarSesion(){
 
