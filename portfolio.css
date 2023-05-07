@@ -65,11 +65,11 @@ header{
     .floristeria .contenido-texto{
         width: 48%;
     }
-    .foto-Margarita{
+    .imagen-floristeria{
         width: 45%;
         }
     .contenido-texto p{
         padding: 10px 0 60px 15px;
         font-weight: 300px;
-        text-align:center;
+        text-align:justify;
     }
