@@ -28,24 +28,23 @@ header{
     padding: 30px 50px 0 0;
 }
 
-nav >a{
+        nav >a{
 
-    color:#160303;
-    font-weight: 300;
-    text-decoration: none;
-    margin-right: 10px;
+            color:#160303;
+            font-weight: 300;
+            text-decoration: none;
+            margin-right: 10px;
 
-}
+        }
 
-nav >a:hover{
-   
-    text-decoration: underline;
+        nav >a:hover{
+        
+            text-decoration: underline;
 
-}
+        }
 .floristeria{
 
     padding-top: 60px;
-    
     padding-left: 0px;
     padding-right: 0px;
     width: 90%;
@@ -63,13 +62,13 @@ nav >a:hover{
         padding-bottom: 60px;
     
     }
-    .floristeria .contenido-textos{
+    .floristeria .contenido-texto{
         width: 48%;
     }
     .foto-Margarita{
         width: 45%;
         }
-    .contenido-textos p{
+    .contenido-texto p{
         padding: 10px 0 60px 15px;
         font-weight: 300px;
         text-align:justify;
