@@ -10,7 +10,7 @@
 header{
     width: 100%;
     height: 250px;
-    background: url("/img/exito.gif");
+    background-image:"/img/exito.gif";
     background-size: cover;
     background-attachment: fixed;
     position:relative;
