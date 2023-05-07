@@ -52,7 +52,7 @@ nav.abajo{
     background: #fff;
     padding: 15px 20px;
 }
-nav.abajo a{
+nav.abajo >a{
     color: #000;
 }
 
