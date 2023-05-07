@@ -58,7 +58,7 @@ nav{
     text-align: right;
     padding: 30px 50px 0 0;
 }
-nav  .active{
+nav > .active{
     background: #fff;
 }
 
