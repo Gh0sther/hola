@@ -55,20 +55,14 @@ nav >a:hover{
 }
 
 
-.nombre{
+    .nombre{
 
-    color:#642a73;
-    font-size: 30px;
-    text-align: center;
-    padding-bottom: 60px;
+        color:#642a73;
+        font-size: 30px;
+        text-align: center;
+        padding-bottom: 60px;
     
-}
-
-.floristeria{
-    display:flex;
-    justify-content:space-evenly;
-
-}
+    }
     .floristeria .contenido-textos{
         width: 48%;
     }
