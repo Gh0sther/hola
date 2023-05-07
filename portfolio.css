@@ -45,6 +45,14 @@ nav >a:hover{
 
 .floristeria{
     display:flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
 
 }
+    .foto-Margarita{
+        width: 45%;
+        }
+    .contenido-textos p{
+        padding: 10px 0 60px 15px;
+        font-weight: 300px;
+        text-align:justify;
+    }
