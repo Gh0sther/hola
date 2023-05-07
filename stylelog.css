@@ -27,6 +27,11 @@ nav >a{
     margin-right: 10px;
 
 }
+nav >a:hover{
+   
+    text-decoration: underline;
+
+}
 
 main{
     width:100%;
