@@ -1,4 +1,4 @@
-document.getElementById("btn__registarse").addEventListener("click",register);
+document.getElementById("btn__registrarse").addEventListener("click",register);
 
 var contenedor_login_register = document.querySelector(".contenedor__login-register");
 var formulario_login = document.querySelector(".formulario__login");
