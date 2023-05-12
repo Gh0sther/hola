@@ -18,7 +18,7 @@ header{
       
         text-align: center;
         font-size: 20px;
-        color:#0e0202
+        color:#f3f3f3;
 }
  body{
     font-family:sans-serif;
@@ -32,7 +32,7 @@ header{
 
         nav >a{
 
-            color:#160303;
+            color:#f3f3f3;
             font-weight: 300;
             text-decoration: none;
             margin-right: 10px;
