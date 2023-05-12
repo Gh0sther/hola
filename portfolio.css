@@ -48,7 +48,7 @@ header{
         }
 .contenedor{
     background-color: yellow;
-    height: 100px;
+    height: 300px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -75,7 +75,7 @@ header{
 
     .contenedor2{
         background-color: blue;
-        height: 100px;
+        height: 300px;
         display: flex;
         justify-content: center;
         flex-direction: column;
