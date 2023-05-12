@@ -58,14 +58,15 @@ header{
 
     .nombre{
 
-        padding-bottom: 20px;
+        padding-bottom: 30px;
         
         
     }
 
     .imagen{
        
-        width: 25%;
+        width: 35%;
+        padding-bottom: 20px;
     }
    
     .contenido-texto{
