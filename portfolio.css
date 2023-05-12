@@ -56,47 +56,24 @@ header{
     
 }
 
-        .nombre1{
-            padding: 25px;
-            
-        }
-
-        .imagen1{
-            padding-top: 10px;
-            width: 30%;
-        }
-    
-        .contenido-texto1{
-                padding-top: 15px;
-                padding-bottom: 40px;
-                width: 40%;
-        }
-
-.contenedor2{
-
-   height: 300px;
-   display: flex;
-   justify-content: center;
-   flex-direction: column;
-   align-items: center;
+    .nombre{
+        padding: 25px;
         
- }   
+    }
 
-        .nombre2{
-            padding: 25px;
-            
-        }
+    .imagen{
+        padding-top: 10px;
+        width: 30%;
+    }
+   
+    .contenido-texto{
+            padding-top: 15px;
+            padding-bottom: 40px;
+            width: 40%;
+    }
+    
 
-        .imagen2{
-            padding-top: 10px;
-            width: 30%;
-        }
 
-        .contenido-texto2{
-                padding-top: 15px;
-                padding-bottom: 40px;
-                width: 40%;
-        }
 
 
    
