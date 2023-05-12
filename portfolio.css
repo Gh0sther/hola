@@ -47,7 +47,7 @@ header{
 
         }
 .contenedor{
-
+    background-color: yellow;
     height: 300px;
     display: flex;
     justify-content: center;
