@@ -57,6 +57,7 @@ header{
 
     .nombre{
         padding: 25px;
+        display: flex;
     }
 
     .imagen-floristeria{
