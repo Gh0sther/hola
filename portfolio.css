@@ -51,13 +51,14 @@ header{
     height: 400px;
     display: flex;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
     
 }
 
     .nombre{
         padding: 25px;
-        display: flex;
+        
     }
 
     .imagen-floristeria{
