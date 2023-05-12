@@ -49,16 +49,23 @@ header{
 .floristeria{
 
     height: 400px;
-
     display: flex;
     justify-content: center;
     align-items: center;
     
-  
-
 }
-   
 
+    .nombre{
+        padding: 25px;
+    }
+
+    .imagen-floristeria{
+
+    }
+   
+    .contenido-texto{
+
+    }
 
    
    
