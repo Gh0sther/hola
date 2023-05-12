@@ -156,7 +156,10 @@ header .textos-header{
     width: 100%;
     height: 100%;
     top:0 ;
-    transform: scale();
+    transition: transform 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: hsla(273,91%,27%,0.7);
 
 }
