@@ -164,7 +164,7 @@ header .textos-header{
     align-items: center;
 
 }
-.hover-galeria p {
+.hover-galeria a {
     color: #f3f3f3;
 }  
 .imagen-port:hover .hover-galeria{
