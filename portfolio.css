@@ -56,22 +56,5 @@ header{
    
 
 
-    .nombre{
-
-        color:#642a73;
-        font-size: 30px;
-        text-align: center;
-        padding-bottom: 60px;
-    
-    }
-    .floristeria .contenido-texto{
-        width: 48%;
-    }
-    .imagen-floristeria{
-        width: 55%;
-        }
-    .contenido-texto p{
-        padding: 10px 0 60px 15px;
-        font-weight: 300px;
-        text-align:justify;
-    }
+   
+   
