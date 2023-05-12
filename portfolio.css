@@ -56,11 +56,7 @@ header{
     margin:auto;
     overflow: hidden;
 }
-    .contenedor-sobre-flristeria{
-    display:flex;
-    justify-content: space-evenly;
-
-    }
+   
 
 
     .nombre{
