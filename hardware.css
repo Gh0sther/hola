@@ -3,6 +3,7 @@
     margin: 0px;
     box-sizing: border-box;
     list-style: none;
+    background-image: url(img/fondo-hardware.jpg)
 }
 
 
@@ -22,7 +23,7 @@ nav{
         }
    
 .body{
-    background-image: url(img/fondo-hardware.jpg)
+    
 }        
 .main{
     width: 100%;
