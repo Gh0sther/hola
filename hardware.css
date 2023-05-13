@@ -4,21 +4,7 @@
     box-sizing: border-box;
    
 }
-.home{
 
-    text-align: right;
-    padding: 30px 50px 0 0;
-}
-        .home >a{
-            color:#642a73;
-            font-weight: 300;
-            text-decoration: none;
-            margin-right: 10px;
-            font-size: 23px;
-        }
-        nav >a:hover{
-            text-decoration: underline;
-        }
         .container{
             margin: 0 auto;
             width: 90%;
