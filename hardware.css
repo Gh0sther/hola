@@ -43,6 +43,10 @@
     justify-content: space-between;
     align-items: center;
 }
+.menu:target{
+    --state-close :scale(1);
+    --state-hamburger:scale(0);
+}
 .menu__hamburger, .menu__close{
     cursor:pointer;
     grid-column: -2/-1;
