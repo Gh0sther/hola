@@ -50,7 +50,7 @@ nav{
 }
 .menu a{
     text-decoration: none;
-    color:#000;
+    color:purple;
     font-size: 18px;
     letter-spacing: 2px;
     display: list-item;
@@ -64,7 +64,7 @@ nav{
 
 .menu a:hover{
     color:#fff;
-    background-color: #642a73;
+    background-color: #070408;
     transition: 0.5s;
     letter-spacing: 4px;
     text-transform: uppercase;
