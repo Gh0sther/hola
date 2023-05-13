@@ -55,7 +55,7 @@ nav{
     letter-spacing: 2px;
     display: list-item;
     padding: 20px;
-    border-top: 1px solid black;
+    border-top: 1px 1px solid black;
     border-bottom: 1px solid black;
 
 }
