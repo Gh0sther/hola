@@ -52,6 +52,7 @@ nav{
     text-decoration: none;
     color:purple;
     font-size: 25px;
+    font-weight: bold;
     font-style: 'sans serif';
     letter-spacing: 2px;
     display: list-item;
