@@ -14,6 +14,7 @@
             font-weight: 300;
             text-decoration: none;
             margin-right: 10px;
+            font-weight: 20px;
         }
         nav >a:hover{
             text-decoration: underline;
