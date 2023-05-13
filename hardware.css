@@ -19,6 +19,10 @@
         nav >a:hover{
             text-decoration: underline;
         }
+        .container{
+            margin: 0 auto;
+            width: 90%;
+        }
 
 .hero{
 
