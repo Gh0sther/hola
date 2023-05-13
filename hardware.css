@@ -60,8 +60,8 @@ nav{
     display: list-item;
     padding: 20px;
     border-top: 1px inset black;
-    border-bottom: 1px solid black;
-    border-right: 1px solid black;
+    border-bottom: 1px inset black;
+    border-right: 1px inset black;
     
 
 }
