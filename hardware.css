@@ -4,6 +4,9 @@
     box-sizing: border-box;
    
 }
+body{
+    font-family: sans-serif;
+}
    
 .container{
     margin: 0 auto;
