@@ -42,6 +42,7 @@
     display:grid;
     justify-content: space-between;
     align-items: center;
+    grid-template-columns: repeat(2,max-content);
 }
 .menu:target{
     --state-close :scale(1);
@@ -57,4 +58,7 @@
 }
 .menu__close{
     transform:var(--state-close);
+}
+.menu__icon{
+    width: 40px;
 }
