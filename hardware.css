@@ -33,3 +33,24 @@
     min-height: 500px;
     height: 100vh;
 }
+
+.menu {
+    --state-close :scale(0);
+    --state-hamburger:scale(1);
+
+    padding: 40px 0;
+    display:grid;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu__hamburger, .menu__close{
+    cursor:pointer;
+    grid-column: -2/-1;
+    grid-row: 1/2;
+}
+.menu__hamburger{
+    transform: var(--state-hamburger);
+}
+.menu__close{
+    transform:var(--state-close);
+}
