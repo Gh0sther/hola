@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+
+.hero{
+
+    background-image: url(img/fondo-hardware.jpg);
+    background-size: cover;
+    min-height: 500px;
+    height: 100vh;
+}
