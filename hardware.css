@@ -61,6 +61,7 @@ nav{
 }
 
 .menu a:hover{
+    color:#000;
     background-color: #642a73;
     transition: 0.5s;
     letter-spacing: 4px;
