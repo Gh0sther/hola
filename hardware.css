@@ -51,6 +51,7 @@ nav{
 }
 .menu a{
     text-decoration: none;
+    background-color: #fff;
     color:purple;
     font-size: 25px;
     font-weight: bold;
