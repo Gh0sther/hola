@@ -2,97 +2,63 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-   
-}
-body{
-    font-family: sans-serif;
-}
-   
-.container{
-    margin: 0 auto;
-    width: 90%;
-    max-width: 1200px;
-    overflow: hidden;
-}
-
-.hero{
-    background-image: url(img/fondo-hardware.jpg);
-    background-size: cover;
-    min-height: 500px;
-    height: 100vh;
-    color: #8615bb;
-}
-
-.nav{
-    --state-close: scale(0);
-    --state-hamburguer:scale(1);
-    --state-menu: translate(-100%);
-
-    padding: 40px 0;
-    display: grid;
-    justify-content: space-between;
-    align-items: center;
-    grid-template-columns: repeat(2, max-content);
-}
-
-.nav:target{
-    --state-menu: translate(0);
-    --state-close: scale(1);
-    --state-hamburguer:scale(0);
-}
-
-.nav__logo{
-    font-size: 2.5rem;
-    z-index: 1;
-}
-
-.nav__hamburguer, 
-.nav__close{
-    cursor: pointer;
-    grid-column: -2/-1;
-    grid-row: 1/2;
-    transition: transform 4s ;
-}
-
-.nav__hamburguer{
-    transform: var(--state-hamburguer);
-}
-
-.nav__close{
-    transform: var(--state-close);
-}
-
-.nav__icon{
-    width: 40px;
-}
-
-.nav__links{
-    background-color: #000;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 0;
-
-    display: grid;
-    align-content: center;
-    gap: 2em;
-    padding-left: 5%;
-
-    transform: var(--state-menu);
-    transition: .3s transform;
-}
-
-.nav__item{
     list-style: none;
 }
 
-.nav__link{
-    color: #fff;
+
+nav{
+
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+        nav >a{
+            color:#642a73;
+            font-weight: 300;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        nav >a:hover{
+            text-decoration: underline;
+        }
+   
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+}
+.menu{
+    width: 20%;
+    background-color: ;
+
+}
+#logo {
+    color:#fff;
+    font-size: 30px;
+    letter-spacing: 4px;
+    padding: 15px;
+    background-color: #000;
+}
+.menu a{
     text-decoration: none;
-    font-size: 1.2rem;
+    color:#fff;
+    font-size: 18px;
     letter-spacing: 2px;
+    display: list-item;
+    padding: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
 }
 
+.menu a:hover{
+    background-color: #642a73;
+    transition: 0.5s;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.body{
+    
+}
 
