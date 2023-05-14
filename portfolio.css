@@ -19,7 +19,7 @@ header{
 .texto-header{
       
         text-align: center;
-        font-size: 20px;
+        font-size: 25px;
         color:#f3f3f3;
 }
  body{
@@ -38,6 +38,7 @@ header{
             font-weight: 300;
             text-decoration: none;
             margin-right: 10px;
+            font-size: 23px;
 
         }
 
@@ -46,6 +47,8 @@ header{
             text-decoration: underline;
 
         }
+
+  
 .contenedor{
   
     height: 600px;
