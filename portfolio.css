@@ -95,6 +95,7 @@ header{
     .lista-interna{
         padding-top : 50px;
         padding-bottom: 30px;
+        padding-right: 15px;
         justify-content: center;
         align-items: center;
         display: flex;
