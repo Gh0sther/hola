@@ -63,7 +63,7 @@ header{
 
     .solucion{
         padding-top : 50px;
-        padding-bottom: 30px;
+        padding-bottom: 60px;
         justify-content: center;
         align-items: center;
         display: flex;
@@ -74,7 +74,7 @@ header{
 
     .imagen{
        
-        width: 25%;
+        width: 28%;
         padding-top: 25px;
         padding-bottom: 20px;
     }
