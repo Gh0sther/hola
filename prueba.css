@@ -39,3 +39,12 @@
     width: 100%;
     margin:30px;
 }
+.mostrador .fila .item .descripcion{
+    color: #707070;
+    font-weight: bold;
+}
+.mostrador .fila .item .precio{
+    color:#f85151;
+    font-weight: bold;
+    font-size: 20px;
+}
