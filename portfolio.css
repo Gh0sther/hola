@@ -95,12 +95,14 @@ header{
     .lista-interna{
        margin-left: 15px;
        font-weight: bold;
-       padding-bottom: 50px;
+       padding-bottom: 40px;
     }
  
-    
-    .footer{
-       padding: 60px 0 30px 0;
+    footer{
+        background: #414141;
+        padding: 60px 0 30px 0;
+        margin:auto;
+        overflow: hidden;
     }
 
 
