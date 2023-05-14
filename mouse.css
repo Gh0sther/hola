@@ -35,3 +35,13 @@ nav{
             text-decoration: underline;
 
         }
+
+ .productos{
+    display:flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+ }       
