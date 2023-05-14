@@ -62,7 +62,7 @@ header{
 
     .solucion{
         padding-top : 30px;
-        padding-bottom: 50px;
+        padding-bottom: 60px;
         justify-content: center;
         align-items: center;
         display: flex;
@@ -80,7 +80,7 @@ header{
    
     .contenido-texto{
             padding-top: 15px;
-            padding-bottom: 20px;
+            padding-bottom: 10px;
             width: 35%;
     }
 
