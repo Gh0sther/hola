@@ -37,8 +37,10 @@ nav{
         }
 
         .container-icon{
+            text-align: right;
             width: 40px;
             height: 40px;
+            padding: 30px 50px 0 0;
         }
 
         .contenido{
